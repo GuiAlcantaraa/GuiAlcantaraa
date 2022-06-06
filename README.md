@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Guilherme De Alcântara ✌
 
-- 🔭 Estagiário de desenvolvimento - Zema
+- 🔭 Desenvolvedor de Sistemas Jr - Zema
 - 🌱 Cursando Sistemas de Informação 5º periodo - Uniaraxá
 
 <div align="center">
