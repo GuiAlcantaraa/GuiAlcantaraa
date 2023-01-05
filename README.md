@@ -2,9 +2,9 @@
 
 <br>
 <div align="center">
-  <a href="https://github.com/llemosv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=llemosv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llemosv&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/GuiAlcantaraa">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GuiAlcantaraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiAlcantaraa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
