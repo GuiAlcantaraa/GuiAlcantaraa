@@ -26,18 +26,3 @@
   ![Snake animation](https://github.com/llemosv/llemosv/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-llemosv/README.md at main · llemosv/llemosv 
