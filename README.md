@@ -21,8 +21,6 @@
  
 <div> 
   <a href = "mailto:guilhermealcantara03@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-alc%C3%A2ntara-57a463236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/llemosv/llemosv/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="https://www.linkedin.com/in/guilherme-alc%C3%A2ntara-57a463236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
